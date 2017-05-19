@@ -1,0 +1,2 @@
+run webserver.bat
+after doing so, run desktopClient.bat
